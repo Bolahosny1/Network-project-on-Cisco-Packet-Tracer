@@ -22,6 +22,14 @@ This repository contains a network project designed and simulated using Cisco Pa
 - `configs/` — Text files with CLI configurations for routers and switches.
 - `README.md` — Project overview and setup instructions.
 
+- **Key Features:**
+  - Multiple routers, switches, PCs, and servers
+  - VLAN segmentation
+  - Static and dynamic routing (RIP, OSPF)
+  - DHCP server configuration
+  - Access Control Lists (ACLs) for security
+  - Internet simulation
+
 ## Getting Started
 
 1. **Requirements:**

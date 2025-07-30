@@ -46,18 +46,9 @@ This repository contains a network project designed and simulated using Cisco Pa
 - **Access Control Lists (ACLs):** Restricting network traffic for security.
 - **Troubleshooting:** Using simulation to practice solving network issues.
 
-## Contributing
-
-Contributions and suggestions are welcome! If you have improvements or new scenarios, feel free to fork the repository and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License.
-
 ## Author
 
 Created by [Bolahosny1](https://github.com/Bolahosny1)
 
 ---
 
-**Note:** If you encounter any problems or need help understanding parts of the project, please open an issue in this repository.

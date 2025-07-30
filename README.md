@@ -1,5 +1,4 @@
 # Network-project-on [Cisco-Packet-Tracer]
-# Network Project on Cisco Packet Tracer
 
 This repository contains a network project designed and simulated using Cisco Packet Tracer. The goal of this project is to demonstrate practical networking concepts and configurations, including device setup, IP addressing, routing, VLANs, and more, in a simulated environment.
 
